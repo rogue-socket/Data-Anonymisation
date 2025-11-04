@@ -1,0 +1,8 @@
+Metric,Before,After
+Total Records,55500.0,55427.0
+Unique QI combinations,539.0,491.0
+Unique Sensitive Values,6.0,6.0
+Re-identification Risk,1.0,0.33
+Information Loss (%),0.0,8.91
+Record Retention (%),100.0,99.87
+Diversity Retention (%),100.0,100.0

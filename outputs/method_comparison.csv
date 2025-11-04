@@ -1,0 +1,4 @@
+Method,Unique_Ratio,Avg_Length,Reversible
+Tokenization,1.0,8.0,Yes (vault)
+Encryption,1.0,10.0,No
+Masking,0.005,36.0,No
